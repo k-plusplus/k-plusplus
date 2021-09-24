@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @k-plusplus
+- 👋 Hi, I’m Keanan
 - 👀 I’m interested in Machine Learning, Automation, and Security
-- 🌱 I’m currently learning C, C++, AVR Assembly, and Verilog
-- 💞️ I’m a senior at UNLV and looking for internships and entry level job opportunities!
-- 📫 You can reach me at... 
+- 🌱 I’m currently learning C, C++, and Python
+- 💞️ I’m a senior at UNLV
+
 
 
 <!---
