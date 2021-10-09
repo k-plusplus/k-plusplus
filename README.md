@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Keanan
-- 👀 I’m interested in Machine Learning, Automation, and Security
+- 👀 I’m interested in Embedded Systems, Security, and Machine Learning
 - 🌱 I’m currently learning C, C++, and Python
 - 💞️ I’m a senior at UNLV
 
